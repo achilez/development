@@ -7,6 +7,8 @@ echo 'lets push this again<br>';
 echo 'this is final'. date("Y").'<br>';
 echo 'hello world<br>';
 //echo 'this is modified by root@centos.vbox<br>';
-echo 'modified using archie@ubuntu.vbox;'
+echo 'modified using proj01.local<br>';
+echo 'under ubuntu.vbox<br>'; 
+
 
 ?>
